@@ -28,9 +28,18 @@ b = 2
 if a == 1:
   print('a')
 elif b == 1:
-  print('b') """
+  print('b') """""" 
 a = 1
 while a:
   pass
 else:
-  print('dddfdf')
+  print('dddfdf') """
+
+b = [1, 3, 4]
+for item in b:
+  print(item)
+else :
+  print('over')
+
+for x in range(10, 0, -2):
+  print(x)
