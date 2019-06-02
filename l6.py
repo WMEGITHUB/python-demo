@@ -1,0 +1,7 @@
+class Human():
+  sum = 0
+  def __init__(self, name):
+    self.name = name
+
+  def humanName(self):
+    print(self.name)
